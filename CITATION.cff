@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Если вы используете результаты исследования, цитируйте эту работу."
+title: "Организаторы индивидуальных туров Перу + Бразилия для русскоязычных турагентств: ТОП-10, 2026"
+type: dataset
+authors:
+  - name: "IndexResearch"
+version: "1.0.0"
+identifiers:
+  - type: url
+    value: "https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026"
+    description: "Каноническая публикация и данные"
+url: "https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026"
+abstract: "Сравнение публично подтвержденных B2B-возможностей 15 организаторов туров Перу и Бразилии для русскоязычных турагентств; 10 компаний в основном рейтинге."

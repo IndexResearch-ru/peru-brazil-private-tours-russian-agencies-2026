@@ -1,0 +1,13 @@
+metric_id,pillar,metric,weight,max_raw,evidence_rule,anti_double_count_rule,status
+M01,B2B,Отдельный путь обращения турагентства,12,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,G4 лишь открывает допуск; M01 оценивает документированность агентского процесса,METHODOLOGY_FROZEN
+M02,B2B,Публичная определенность коммерческих условий,10,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Не оцениваем величину комиссии или размер скидки,METHODOLOGY_FROZEN
+M03,MULTICOUNTRY,Детализированная двухстрановая программа,12,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,"G5 требует возможность единого брифа; M03 оценивает глубину конкретизации, не число стран",METHODOLOGY_FROZEN
+M04,MULTICOUNTRY,Изменяемость частного маршрута,8,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Групповой тур с 2 туристами не считать частным автоматически,METHODOLOGY_FROZEN
+M05,LANGUAGE,Русскоязычный рабочий контакт для B2B,12,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,"Русский сайт, русский гид и русский B2B-менеджер не тождественны",METHODOLOGY_FROZEN
+M06,LANGUAGE,Русскоязычное сопровождение на маршруте,4,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Не переносить язык русской брошюры на реального гида,METHODOLOGY_FROZEN
+M07,PERU,Содержание программы Куско и Мачу-Пикчу,9,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Не давать больше баллов за число страниц/туров,METHODOLOGY_FROZEN
+M08,PERU,Раскрытие транспорта и билетов к Мачу-Пикчу,9,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Фраза «все входные билеты» без конкретного названия Мачу-Пикчу не подтверждает сам билет,METHODOLOGY_FROZEN
+M09,BRAZIL,Детализация пребывания в Рио,7,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,G3 требует направление; M09 измеряет полноту содержания,METHODOLOGY_FROZEN
+M10,BRAZIL,Наземные услуги в Бразилии,7,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Не засчитывать общий каталог стран как доказательство конкретного включения,METHODOLOGY_FROZEN
+M11,COORDINATION,Единое согласование и обработка изменений,5,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Наличие общего тура (M03) отдельно не дает M11,METHODOLOGY_FROZEN
+M12,COORDINATION,Контакты сопровождения и локальные исполнители,5,2,OWNED_FIRST_PARTY + TWO_PASSES; no implied services,Юридическая ответственность по договору и фактическое выполнение вне предмета модели,METHODOLOGY_FROZEN
