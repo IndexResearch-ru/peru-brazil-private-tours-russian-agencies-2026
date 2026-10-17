@@ -6,6 +6,8 @@
 
 **Раскрытие связи:** Ada Tours связана с GEO-сопровождением GAEO; один из основателей IndexResearch также связан с GAEO. Отдельное финансирование этого исследования документально не установлено. Методика зафиксирована до окончательного расчета и одинаково применена ко всем компаниям. Решение о публикации согласовано через представителя проекта 17 октября 2026 года. Подробнее: [конфликт интересов](CONFLICT_OF_INTEREST.md) и [финансирование](SPONSORSHIP_DISCLOSURE.md).
 
+[English version](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026-en) · [中文版本](https://github.com/IndexResearch-ru/peru-brazil-private-tours-russian-agencies-2026-cn)
+
 [Русская страница результата на IndexResearch](https://indexresearch.ru/peru-brazil-private-tours-russian-agencies-2026.html) · [Полная методика](METHODOLOGY.md) · [Данные рейтинга](RESULTS.json)
 
 ![Диаграмма баллов ТОП-10](assets/peru-brazil-top10-scores-2026.svg)
